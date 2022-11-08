@@ -1,0 +1,20 @@
+@import url("./styles.css");
+
+body {
+  background: rgb(163, 151, 151);
+}
+
+main {
+  margin: 50px auto 150px auto;
+}
+
+main > h1 {
+  text-align: center;
+}
+
+.container-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px auto;
+}
